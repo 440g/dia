@@ -1,1 +1,3 @@
-# dia
+# diagrams
+---
+for the presentation
